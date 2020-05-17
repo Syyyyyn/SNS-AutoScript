@@ -1,7 +1,7 @@
 ﻿Nom [Optionnel];Commentaire [Optionnel];Adresse IP;Résolution : statique / dynamique;Adresse MAC [Optionnel]
-SRV-DC01;Contrôleur de domaine princpal;192.168.1.5;statique;0A:00:27:00:00:28
-SRV-DC02;Contrôleur de domaine secondaire;192.168.1.6;statique;B4:2E:99:96:06:6F
-SRV-MAIL;;192.168.1.7;statique;
+SRV-DC01;Main domain controller;192.168.1.5;statique;0A:00:27:00:00:28
+SRV-DC02;Secondary domain controller;192.168.1.6;statique;B4:2E:99:96:06:6F
+SRV-EXCHANGE;;192.168.1.7;statique;
 ;;192.168.1.20;statique;
 DNS_1.1.1.1;;1.1.1.1;statique;
 DNS_1.0.0.1;;1.0.0.1;statique;
