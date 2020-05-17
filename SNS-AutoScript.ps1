@@ -23,9 +23,7 @@ If provided, the script will overwrite any file at {OutputFileName} location.
 .EXAMPLE
 SNS-AutoScript -CSVfile export.csv -ExportType NETWORK -Name stormshield_cli.script
 .LINK
-https://github.com/
-.NOTES
-Written by: Antoine Leroux
+https://github.com/Syyyyyn/SNS-AutoScript
 #>
 
 [CmdletBinding()]
